@@ -1,6 +1,6 @@
-https://youtu.be/6fNy0iD3hsk?t=4611
+https://youtu.be/6fNy0iD3hsk?t=6914
 
-01:06:39
+1:55:14
 concole1:yarn dev
 console2:
 cd sanityyoutube
